@@ -1,17 +1,20 @@
 {
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite build && vite preview"
-  },
-  "dependencies": {
-    "@vitejs/plugin-vue": "^4.0.0",
-    "@vue/compiler-sfc": "^3.2.33",
-    "@vue/server-renderer": "^3.2.33",
-    "vite": "^4.0.3",
-    "vike": "0.4.143",
-    "vue": "^3.2.33",
-    "vue-router": "^4.0.14"
-  },
-  "type": "module"
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite build && vite preview"
+    },
+    "dependencies": {
+        "vike": "0.4.236",
+        "vike-vue": "^0.9.6",
+        "vue": "^3.2.33",
+        "vue-router": "^4.0.14"
+    },
+    "devDependencies": {
+        "vite": "^7.2.2",
+        "@vitejs/plugin-vue": "^6.0.1",
+        "@types/node": "^20.19.24",
+        "typescript": "^5.9.3"
+    },
+    "type": "module"
 }
