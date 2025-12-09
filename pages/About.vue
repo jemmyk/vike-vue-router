@@ -6,6 +6,7 @@
 <script>
 export default {
   async setup() {
+    console.log("2 About.vue")
     return {
       msg: 'About'
     }
