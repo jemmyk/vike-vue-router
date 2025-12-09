@@ -5,7 +5,7 @@
         "preview": "vite build && vite preview"
     },
     "dependencies": {
-        "vike": "^0.4.237",
+        "vike": "0.4.247-commit-dbcfa58",
         "vike-vue": "^0.9.6",
         "vue": "^3.2.33",
         "vue-router": "^4.0.14"
